@@ -1,679 +1,912 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Purple Heart Rating\n"
-"POT-Creation-Date: 2013-08-01 11:50+0100\n"
-"PO-Revision-Date: 2013-08-01 11:50+0100\n"
-"Last-Translator: Florian Simeth <florian.simeth@online.de>\n"
+"POT-Creation-Date: 2013-12-16 12:47+0100\n"
+"PO-Revision-Date: 2013-12-16 12:47+0100\n"
+"Last-Translator: WP-Buddy <info@wp-buddy.com>\n"
 "Language-Team: \n"
+"Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.6.2\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ../..\n"
 
-#: ../../classes/wpb_plugin.php:648
-#, php-format
+#: ../../classes/wpb_plugin.php:732
+#, fuzzy, php-format
 msgid ""
 "You should consider entering you purchase code for the %s plugin because you "
 "get every update immediately delivered to your WordPress installation."
 msgstr ""
+"Om automatische updates te ontvangen moet u de aankoop code kopiëren en hier "
+"plakken. Als u niet waar weet u uw aankoop code kunt vinden, klik dan hier: "
+"%s"
 
-#: ../../classes/wpb_purple_heart_rating.php:426
-#: ../../classes/wpb_purple_heart_rating.php:427
-#: ../../classes/wpb_purple_heart_rating.php:1352
+#: ../../classes/wpb_purple_heart_rating.php:487
+#: ../../classes/wpb_purple_heart_rating.php:488
+#: ../../classes/wpb_purple_heart_rating.php:1508
 msgid "Purple Heart Rating"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:434
-#: ../../classes/wpb_purple_heart_rating.php:2386
+#: ../../classes/wpb_purple_heart_rating.php:495
+#: ../../classes/wpb_purple_heart_rating.php:2661
 msgid "Logs"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:459
+#: ../../classes/wpb_purple_heart_rating.php:520
 msgid "Rate us with a heart, or not!"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:460
+#: ../../classes/wpb_purple_heart_rating.php:521
+#, fuzzy
 msgid "So that we are getting better and you have more benefits of our posts."
 msgstr ""
+"U moet een Google-account hebben. Heeft u geen Google-account? Klik hier om "
+"te maken: %s"
 
-#: ../../classes/wpb_purple_heart_rating.php:461
-#: ../../classes/wpb_purple_heart_rating.php:462
+#: ../../classes/wpb_purple_heart_rating.php:522
+#: ../../classes/wpb_purple_heart_rating.php:523
 msgid "What?"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:463
+#: ../../classes/wpb_purple_heart_rating.php:524
+#, fuzzy
 msgid ""
 "We want to know what you think about this site. Share your feedback with the "
 "author - and help us to improve this page."
 msgstr ""
+"Om automatische updates te ontvangen moet u de aankoop code kopiëren en hier "
+"plakken. Als u niet waar weet u uw aankoop code kunt vinden, klik dan hier: "
+"%s"
 
-#: ../../classes/wpb_purple_heart_rating.php:493
+#: ../../classes/wpb_purple_heart_rating.php:554
+#, fuzzy
 msgid "What else would you like to tell the webmaster about this website?"
-msgstr ""
+msgstr "Over"
 
-#: ../../classes/wpb_purple_heart_rating.php:494
+#: ../../classes/wpb_purple_heart_rating.php:555
 msgid "Thanks for rating"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:549
+#: ../../classes/wpb_purple_heart_rating.php:618
+#, fuzzy
 msgid "Settings updated."
+msgstr "Instellingen"
+
+#: ../../classes/wpb_purple_heart_rating.php:628
+msgid "Preview"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:559
-msgid "General"
+#: ../../classes/wpb_purple_heart_rating.php:629
+msgid "Layout"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:562
+#: ../../classes/wpb_purple_heart_rating.php:630
+msgid "Comment-box popup window"
+msgstr ""
+
+#: ../../classes/wpb_purple_heart_rating.php:631
+#: ../../classes/wpb_purple_heart_rating.php:632
+msgid "Options"
+msgstr ""
+
+#: ../../classes/wpb_purple_heart_rating.php:635
+#, fuzzy
 msgid "About"
-msgstr ""
+msgstr "Over"
 
-#: ../../classes/wpb_purple_heart_rating.php:563
+#: ../../classes/wpb_purple_heart_rating.php:636
+#, fuzzy
 msgid "Like this plugin?"
-msgstr ""
+msgstr "Vind je deze plugin leuk?"
 
-#: ../../classes/wpb_purple_heart_rating.php:565
+#: ../../classes/wpb_purple_heart_rating.php:638
+#, fuzzy
 msgid "Subscribe to our free newsletter"
-msgstr ""
+msgstr "Ontvang onze gratis nieuwsbrief"
 
-#: ../../classes/wpb_purple_heart_rating.php:567
+#: ../../classes/wpb_purple_heart_rating.php:640
+#, fuzzy
 msgid "Helpful links"
-msgstr ""
+msgstr "Handige Links"
 
-#: ../../classes/wpb_purple_heart_rating.php:574
-#: ../../classes/wpb_purple_heart_rating.php:2232
+#: ../../classes/wpb_purple_heart_rating.php:647
+#: ../../classes/wpb_purple_heart_rating.php:2462
+#, fuzzy
 msgid "Purple Heart Rating Settings"
-msgstr ""
+msgstr "Instellingen"
 
-#: ../../classes/wpb_purple_heart_rating.php:790
-#: ../../classes/wpb_purple_heart_rating.php:800
-#: ../../classes/wpb_purple_heart_rating.php:1604
+#: ../../classes/wpb_purple_heart_rating.php:816
+#, fuzzy
+msgid ""
+"You have no posts in your database. Please add one to see the rating preview "
+"here."
+msgstr ""
+"U moet een Google-account hebben. Heeft u geen Google-account? Klik hier om "
+"te maken: %s"
+
+#: ../../classes/wpb_purple_heart_rating.php:897
+#: ../../classes/wpb_purple_heart_rating.php:908
+#: ../../classes/wpb_purple_heart_rating.php:1784
+#, fuzzy
 msgid "+1"
-msgstr ""
+msgstr "1. Schakel de Google Drive API in"
 
-#: ../../classes/wpb_purple_heart_rating.php:794
-#: ../../classes/wpb_purple_heart_rating.php:804
-#: ../../classes/wpb_purple_heart_rating.php:1605
+#: ../../classes/wpb_purple_heart_rating.php:901
+#: ../../classes/wpb_purple_heart_rating.php:912
+#: ../../classes/wpb_purple_heart_rating.php:1785
+#, fuzzy
 msgid "-1"
-msgstr ""
+msgstr "1. Schakel de Google Drive API in"
 
-#: ../../classes/wpb_purple_heart_rating.php:849
+#: ../../classes/wpb_purple_heart_rating.php:902
+#, fuzzy, php-format
+msgid "%s Ratings so far"
+msgstr ""
+"U bent nu klaar om te gaan! De plugin heeft een map met de naam %1$ s op uw "
+"Google Drive gemaakt. Klik hier om alle bestanden weer te geven: %2$ s"
+
+#: ../../classes/wpb_purple_heart_rating.php:959
 msgid "Switch"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:882
-msgid "WordPress Rating Plugin by WPBuddy"
+#: ../../classes/wpb_purple_heart_rating.php:990
+#, fuzzy
+msgid "WordPress Rating Plugin by WP-Buddy"
+msgstr ""
+"Het is aanbevolen om gebruik te maken van een \"caching plugin\" zoals WP-"
+"Super-Cache tot een aanzienlijke verbetering laadtijd."
+
+#: ../../classes/wpb_purple_heart_rating.php:993
+msgid "(PREVIEW MODE)"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:914
+#: ../../classes/wpb_purple_heart_rating.php:1023
+#, fuzzy
 msgid "Sorry, we cannot proceed your comment."
-msgstr ""
+msgstr "Uw voornaam"
 
-#: ../../classes/wpb_purple_heart_rating.php:928
+#: ../../classes/wpb_purple_heart_rating.php:1039
+#, fuzzy
 msgid "Sorry, the post you are trying to comment on does not exist."
 msgstr ""
+"U moet een Google-account hebben. Heeft u geen Google-account? Klik hier om "
+"te maken: %s"
 
-#: ../../classes/wpb_purple_heart_rating.php:940
+#: ../../classes/wpb_purple_heart_rating.php:1051
 msgid "Anonymous"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:952
+#: ../../classes/wpb_purple_heart_rating.php:1069
+#, fuzzy
 msgid "Sorry, your comment could not be saved."
-msgstr ""
+msgstr "Uw voornaam"
 
-#: ../../classes/wpb_purple_heart_rating.php:959
+#: ../../classes/wpb_purple_heart_rating.php:1077
+#, fuzzy
 msgid "Thanks for your comment!"
-msgstr ""
+msgstr "Uw voornaam"
 
-#: ../../classes/wpb_purple_heart_rating.php:978
-#: ../../classes/wpb_purple_heart_rating.php:1632
-#: ../../classes/wpb_purple_heart_rating.php:1637
+#: ../../classes/wpb_purple_heart_rating.php:1096
+#: ../../classes/wpb_purple_heart_rating.php:1812
+#: ../../classes/wpb_purple_heart_rating.php:1817
+#, fuzzy
 msgid "Sorry, we cannot proceed your rating."
-msgstr ""
+msgstr "Uw voornaam"
 
-#: ../../classes/wpb_purple_heart_rating.php:992
+#: ../../classes/wpb_purple_heart_rating.php:1112
+#, fuzzy
 msgid "Sorry, the post you are trying to rate does not exist."
 msgstr ""
+"U moet een Google-account hebben. Heeft u geen Google-account? Klik hier om "
+"te maken: %s"
 
-#: ../../classes/wpb_purple_heart_rating.php:1005
+#: ../../classes/wpb_purple_heart_rating.php:1125
+#, fuzzy
 msgid "You have already rated this post. Thank you!"
 msgstr ""
+"U moet een Google-account hebben. Heeft u geen Google-account? Klik hier om "
+"te maken: %s"
 
-#: ../../classes/wpb_purple_heart_rating.php:1393
+#: ../../classes/wpb_purple_heart_rating.php:1556
+#, fuzzy
 msgid "Start customizing your purple heart rating plugin"
 msgstr ""
+"U kunt de lokale mediabibliotheek  synchroniseren met Google Drive met "
+"behulp van de \"Sync Mijn media bibliotheek nu\"-knop. Dit zal enige tijd "
+"duren afhankelijk van de grootte van uw mediabibliotheek."
 
-#: ../../classes/wpb_purple_heart_rating.php:1394
+#: ../../classes/wpb_purple_heart_rating.php:1557
+#, fuzzy
 msgid "Please help to improve this plugin and allow tracking."
 msgstr ""
+"Het is aanbevolen om gebruik te maken van een \"caching plugin\" zoals WP-"
+"Super-Cache tot een aanzienlijke verbetering laadtijd."
 
-#: ../../classes/wpb_purple_heart_rating.php:1406
+#: ../../classes/wpb_purple_heart_rating.php:1569
+#, fuzzy
 msgid "Not now!"
-msgstr ""
+msgstr "Mijn mediabibliotheek nu synchroniseren"
 
-#: ../../classes/wpb_purple_heart_rating.php:1420
+#: ../../classes/wpb_purple_heart_rating.php:1583
 msgid "Okay!"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:1461
+#: ../../classes/wpb_purple_heart_rating.php:1624
 msgid "Sorry, we cannot proceed this action."
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:1478
+#: ../../classes/wpb_purple_heart_rating.php:1643
 msgid "Options updated!"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:1492
+#: ../../classes/wpb_purple_heart_rating.php:1657
+#, fuzzy
 msgid "Settings"
-msgstr ""
+msgstr "Instellingen"
 
-#: ../../classes/wpb_purple_heart_rating.php:1493
+#: ../../classes/wpb_purple_heart_rating.php:1658
+#, fuzzy
 msgid "More Plugins by WPBuddy"
-msgstr ""
+msgstr "Meer Plugins door WPBuddy"
 
-#: ../../classes/wpb_purple_heart_rating.php:1651
+#: ../../classes/wpb_purple_heart_rating.php:1833
+#, fuzzy
 msgid "Sorry, the comment you are trying to rate on does not exist."
 msgstr ""
+"U moet een Google-account hebben. Heeft u geen Google-account? Klik hier om "
+"te maken: %s"
 
-#: ../../classes/wpb_purple_heart_rating.php:1664
+#: ../../classes/wpb_purple_heart_rating.php:1846
+#, fuzzy
 msgid "You have already rated this comment. Thank you!"
 msgstr ""
+"U moet een Google-account hebben. Heeft u geen Google-account? Klik hier om "
+"te maken: %s"
 
-#: ../../classes/wpb_purple_heart_rating.php:1706
+#: ../../classes/wpb_purple_heart_rating.php:1888
+#, fuzzy
 msgid "Sorry, your rating could not be saved."
-msgstr ""
+msgstr "Uw voornaam"
 
-#: ../../classes/wpb_purple_heart_rating.php:1714
+#: ../../classes/wpb_purple_heart_rating.php:1896
+#, fuzzy
 msgid "Thanks for your rating!"
-msgstr ""
+msgstr "Uw voornaam"
 
-#: ../../classes/wpb_purple_heart_rating.php:2005
+#: ../../classes/wpb_purple_heart_rating.php:2217
+#, fuzzy
 msgid "Could not find GD Star Rating table!"
-msgstr ""
+msgstr "Waar vindt u uw aankoop code"
 
-#: ../../classes/wpb_purple_heart_rating.php:2018
+#: ../../classes/wpb_purple_heart_rating.php:2230
+#, fuzzy
 msgid ""
 "Successfully imported from GD Star rating! GD Star Rating has been "
 "deactivated."
-msgstr ""
+msgstr "Lokale cache is gewist."
 
-#: ../../classes/wpb_purple_heart_rating.php:2021
+#: ../../classes/wpb_purple_heart_rating.php:2233
+#, fuzzy
 msgid "Could not import your data from the GD Star Rating plugin."
 msgstr ""
+"Elk uur leest de plugin deze vermeldingen uit de cache-database om de "
+"bestanden te syncen die nog niet zijn gesynchroniseerd zijn met Google Drive."
 
-#: ../../classes/wpb_purple_heart_rating.php:2087
+#: ../../classes/wpb_purple_heart_rating.php:2303
+#, fuzzy
 msgid "Error while refreshing the current ratings."
-msgstr ""
+msgstr "Google's API gaf een error terug!"
 
-#: ../../classes/wpb_purple_heart_rating.php:2188
+#: ../../classes/wpb_purple_heart_rating.php:2416
+#, fuzzy
 msgid "Your name (optional)"
-msgstr ""
+msgstr "Uw voornaam"
 
-#: ../../classes/wpb_purple_heart_rating.php:2194
+#: ../../classes/wpb_purple_heart_rating.php:2422
+#, fuzzy
 msgid "Your E-Mail (optional)"
-msgstr ""
+msgstr "Uw e-mailadres"
 
-#: ../../classes/wpb_purple_heart_rating.php:2201
+#: ../../classes/wpb_purple_heart_rating.php:2429
+#, fuzzy
 msgid "Your comment"
-msgstr ""
+msgstr "Uw voornaam"
 
-#: ../../classes/wpb_purple_heart_rating.php:2206
+#: ../../classes/wpb_purple_heart_rating.php:2434
 msgid "Close"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:2209
+#: ../../classes/wpb_purple_heart_rating.php:2437
 msgid "Send"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:2415
+#: ../../classes/wpb_purple_heart_rating.php:2690
+#, fuzzy
 msgid "Items per page"
 msgstr ""
+"De plugin Google Drive CDN synchroniseert momenteel uw objecten naar uw "
+"Google Drive opslag."
 
-#: ../../classes/wpb_purple_heart_rating.php:2430
+#: ../../classes/wpb_purple_heart_rating.php:2707
+#, fuzzy
 msgid ""
 "Are you sure you want to do this? This will remove all database tables as "
 "well as your ratings. The plugin will then de-activate itself."
 msgstr ""
+"Elk uur leest de plugin deze vermeldingen uit de cache-database om de "
+"bestanden te syncen die nog niet zijn gesynchroniseerd zijn met Google Drive."
 
-#: ../../classes/wpb_purple_heart_rating.php:2431
+#: ../../classes/wpb_purple_heart_rating.php:2708
+#, fuzzy
 msgid "Yes, uninstall and deactivate this plugin!"
-msgstr ""
+msgstr "Vind je deze plugin leuk?"
 
-#: ../../classes/wpb_purple_heart_rating.php:2432
+#: ../../classes/wpb_purple_heart_rating.php:2709
+#, fuzzy
 msgid "No, do not uninstall!"
 msgstr ""
+"U moet een Google-account hebben. Heeft u geen Google-account? Klik hier om "
+"te maken: %s"
 
-#: ../../classes/wpb_purple_heart_rating.php:2479
-#: ../../classes/wpb_purple_heart_rating_db_view.php:43
+#: ../../classes/wpb_purple_heart_rating.php:2760
+#: ../../classes/wpb_purple_heart_rating_db_view.php:45
 msgid "Rating"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating.php:2480
+#: ../../classes/wpb_purple_heart_rating.php:2761
 msgid "Votes"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_db_view.php:42
+#: ../../classes/wpb_purple_heart_rating_db_view.php:44
 msgid "Rated on"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_db_view.php:44
-msgid "ID"
-msgstr ""
-
-#: ../../classes/wpb_purple_heart_rating_db_view.php:45
-msgid "Time"
-msgstr ""
-
 #: ../../classes/wpb_purple_heart_rating_db_view.php:46
-msgid "IP Address (anonymized)"
-msgstr ""
+#, fuzzy
+msgid "ID"
+msgstr "Client-ID"
 
 #: ../../classes/wpb_purple_heart_rating_db_view.php:47
-msgid "Post ID"
-msgstr ""
+#, fuzzy
+msgid "Time"
+msgstr "Cache tijd"
 
 #: ../../classes/wpb_purple_heart_rating_db_view.php:48
-msgid "Comment ID"
-msgstr ""
+#, fuzzy
+msgid "IP Address (anonymized)"
+msgstr "Uw e-mailadres"
 
-#: ../../classes/wpb_purple_heart_rating_db_view.php:247
-#: ../../classes/wpb_purple_heart_rating_db_view.php:276
+#: ../../classes/wpb_purple_heart_rating_db_view.php:49
+#, fuzzy
+msgid "Post ID"
+msgstr "Client-ID"
+
+#: ../../classes/wpb_purple_heart_rating_db_view.php:50
+#, fuzzy
+msgid "Comment ID"
+msgstr "Client-ID"
+
+#: ../../classes/wpb_purple_heart_rating_db_view.php:274
+#: ../../classes/wpb_purple_heart_rating_db_view.php:303
 msgid "Delete"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_db_view.php:281
+#: ../../classes/wpb_purple_heart_rating_db_view.php:309
 msgid "Post is no longer available"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_db_view.php:282
+#: ../../classes/wpb_purple_heart_rating_db_view.php:311
 msgid "Post:"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_db_view.php:286
+#: ../../classes/wpb_purple_heart_rating_db_view.php:316
 msgid "Comment is no longer available "
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_db_view.php:287
+#: ../../classes/wpb_purple_heart_rating_db_view.php:318
 msgid "Comment:"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:42
-msgid "Installation manual"
-msgstr ""
-
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:43
-msgid "Frequently Asked Questions"
-msgstr ""
-
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:44
-msgid "Report a bug"
-msgstr ""
-
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:45
-msgid "Request a function"
-msgstr ""
-
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:46
+#, fuzzy
+msgid "Installation manual"
+msgstr "Installatiehandleiding"
+
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:49
+#, fuzzy
+msgid "Frequently Asked Questions"
+msgstr "Veel gestelde vragen"
+
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:52
+#, fuzzy
+msgid "Report a bug"
+msgstr "Rapporteer een bug"
+
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:55
+#, fuzzy
+msgid "Request a function"
+msgstr "Verzoek een functie"
+
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:58
+#, fuzzy
 msgid "Submit a translation"
-msgstr ""
+msgstr "Indienen van een vertaling"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:47
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:61
+#, fuzzy
 msgid "More cool stuff by WPBuddy"
-msgstr ""
+msgstr "Meer handige dingen van WPBuddy"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:107
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:124
+#, fuzzy
 msgid "Your first name"
-msgstr ""
+msgstr "Uw voornaam"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:109
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:126
+#, fuzzy
 msgid "Your E-Mail address"
-msgstr ""
+msgstr "Uw e-mailadres"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:111
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:128
+#, fuzzy
 msgid "Subscribe for free"
-msgstr ""
+msgstr "Abonneren"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:143
-msgid "Customize"
-msgstr ""
-
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:146
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:167
 msgid "Icon"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:159
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:180
 msgid "Color"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:165
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:186
 msgid "Headline"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:170
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:179
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:188
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:193
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:205
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:217
+#, fuzzy
 msgid "activate / deactivate"
 msgstr ""
+"Geef op hoe lang de URL's moeten worden opgeslagen. Ingesteld op 0 om uit te "
+"schakelen. Laat het leeg voor het opslaan van de bestanden voor een "
+"onbepaalde periode."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:174
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:198
 msgid "Description"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:183
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:210
+#, fuzzy
 msgid "\"More Button\" label"
-msgstr ""
+msgstr "Meer Plugins door WPBuddy"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:192
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:222
 msgid "Popover headline"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:197
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:227
 msgid "Popover description"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:202
-msgid "Width of the info area"
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:232
+msgid "Show total number of ratings"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:204
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:210
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:216
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:222
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:228
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:234
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:240
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:246
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:252
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:258
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:264
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:237
+#, fuzzy
+msgid "Width of the info area"
+msgstr "3. Info"
+
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:239
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:245
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:251
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:257
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:263
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:269
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:275
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:281
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:287
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:293
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:299
 msgid "px, em or %"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:208
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:243
 msgid "Width of the rating area"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:214
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:249
 msgid "Rating buttons width"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:220
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:255
+#, fuzzy
 msgid "Headline font size"
 msgstr ""
+"U kunt de lokale mediabibliotheek  synchroniseren met Google Drive met "
+"behulp van de \"Sync Mijn media bibliotheek nu\"-knop. Dit zal enige tijd "
+"duren afhankelijk van de grootte van uw mediabibliotheek."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:226
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:261
+#, fuzzy
 msgid "Description font size"
 msgstr ""
+"U kunt de lokale mediabibliotheek  synchroniseren met Google Drive met "
+"behulp van de \"Sync Mijn media bibliotheek nu\"-knop. Dit zal enige tijd "
+"duren afhankelijk van de grootte van uw mediabibliotheek."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:232
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:267
+#, fuzzy
 msgid "\"More button\" label font size"
 msgstr ""
+"U kunt de lokale mediabibliotheek  synchroniseren met Google Drive met "
+"behulp van de \"Sync Mijn media bibliotheek nu\"-knop. Dit zal enige tijd "
+"duren afhankelijk van de grootte van uw mediabibliotheek."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:238
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:273
+#, fuzzy
 msgid "Popover headline font size"
 msgstr ""
+"U kunt de lokale mediabibliotheek  synchroniseren met Google Drive met "
+"behulp van de \"Sync Mijn media bibliotheek nu\"-knop. Dit zal enige tijd "
+"duren afhankelijk van de grootte van uw mediabibliotheek."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:244
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:279
+#, fuzzy
 msgid "Popover description font size"
 msgstr ""
+"U kunt de lokale mediabibliotheek  synchroniseren met Google Drive met "
+"behulp van de \"Sync Mijn media bibliotheek nu\"-knop. Dit zal enige tijd "
+"duren afhankelijk van de grootte van uw mediabibliotheek."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:250
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:285
+#, fuzzy
 msgid "Positive percentage font size"
 msgstr ""
+"U kunt de lokale mediabibliotheek  synchroniseren met Google Drive met "
+"behulp van de \"Sync Mijn media bibliotheek nu\"-knop. Dit zal enige tijd "
+"duren afhankelijk van de grootte van uw mediabibliotheek."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:256
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:291
+#, fuzzy
 msgid "Negative percentage font size"
 msgstr ""
+"U kunt de lokale mediabibliotheek  synchroniseren met Google Drive met "
+"behulp van de \"Sync Mijn media bibliotheek nu\"-knop. Dit zal enige tijd "
+"duren afhankelijk van de grootte van uw mediabibliotheek."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:262
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:297
+#, fuzzy
 msgid "Icon size"
 msgstr ""
+"U kunt de lokale mediabibliotheek  synchroniseren met Google Drive met "
+"behulp van de \"Sync Mijn media bibliotheek nu\"-knop. Dit zal enige tijd "
+"duren afhankelijk van de grootte van uw mediabibliotheek."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:268
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:303
 msgid "Custom CSS"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:271
-#, php-format
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:306
+#, fuzzy, php-format
 msgid ""
 "Here you can add your custom css. Please note that some of your changes "
 "might not appear on this page because WordPress sometimes overwrites it. "
 "Read more on this here: %s."
 msgstr ""
+"Om automatische updates te ontvangen moet u de aankoop code kopiëren en hier "
+"plakken. Als u niet waar weet u uw aankoop code kunt vinden, klik dan hier: "
+"%s"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:271
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:306
+#, fuzzy
 msgid "How to style the rating plugin"
 msgstr ""
+"Geef op hoe lang de URL's moeten worden opgeslagen. Ingesteld op 0 om uit te "
+"schakelen. Laat het leeg voor het opslaan van de bestanden voor een "
+"onbepaalde periode."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:275
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:310
 msgid "Switch rating positions"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:281
-msgid "Comment-box popup window"
-msgstr ""
-
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:284
-msgid "Display comment-box after rating?"
-msgstr ""
-
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:286
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:343
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:353
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:390
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:400
-msgid "Yes"
-msgstr ""
-
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:287
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:344
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:354
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:391
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:401
-msgid "No"
-msgstr ""
-
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:292
-msgid "Popup headline"
-msgstr ""
-
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:297
-msgid "Popup text"
-msgstr ""
-
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:301
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:315
 msgid "Reset to defaults"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:306
-msgid "Options"
-msgstr ""
-
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:314
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:334
+#, fuzzy
 msgid "Where to display the rating?"
-msgstr ""
+msgstr "Waar vindt u uw aankoop code"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:316
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:338
 msgid "Before the content"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:317
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:341
 msgid "After the content"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:318
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:343
 msgid "Within the comment fields"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:328
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:355
 msgid "On which post types?"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:330
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:357
 msgid "Nothing"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:341
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:368
 msgid "Allow comment rating"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:347
-msgid "Choose \"Yes\" if you want to allow rating the comments."
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:372
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:386
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:442
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:456
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:480
+msgid "Yes"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:351
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:375
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:389
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:445
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:459
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:483
+msgid "No"
+msgstr ""
+
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:378
+#, fuzzy
+msgid "Choose \"Yes\" if you want to allow rating the comments."
+msgstr ""
+"U moet een Google-account hebben. Heeft u geen Google-account? Klik hier om "
+"te maken: %s"
+
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:382
 msgid "Sort the comments"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:357
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:392
+#, fuzzy
 msgid ""
 "Choose \"Yes\" if you want the plugin to sort the comments depending on the "
 "ratings."
 msgstr ""
+"U kunt de lokale mediabibliotheek  synchroniseren met Google Drive met "
+"behulp van de \"Sync Mijn media bibliotheek nu\"-knop. Dit zal enige tijd "
+"duren afhankelijk van de grootte van uw mediabibliotheek."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:361
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:396
+#, fuzzy
 msgid "Log Save Time"
-msgstr ""
+msgstr "Cache tijd"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:363
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:398
+#, fuzzy
 msgid "hours (Keep empty to save for the maximum duration = 365 days)"
 msgstr ""
+"uur (het is aanbevelen dit leeg te laten omdat statische bestanden niet vaak "
+"veranderen.)"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:367
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:402
 msgid "Add Javascript to Footer"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:370
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:407
+#, fuzzy
 msgid ""
 "Adding the Javascripts to the footer will sometimes help to get the plugin "
 "to work."
-msgstr ""
+msgstr "Ontvang onze gratis nieuwsbrief"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:374
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:411
 msgid "Add jQuery"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:377
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:416
+#, fuzzy
 msgid ""
 "This should only be activated if your theme is using an older version of "
 "jQuery. Please note that this can stop some of your javascripts to work "
 "properly. You should consider updating your theme to the latest version "
 "instead."
 msgstr ""
+"U kunt de lokale mediabibliotheek  synchroniseren met Google Drive met "
+"behulp van de \"Sync Mijn media bibliotheek nu\"-knop. Dit zal enige tijd "
+"duren afhankelijk van de grootte van uw mediabibliotheek."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:381
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:420
+#, fuzzy
 msgid "Use jQuery in noConflict-mode"
 msgstr ""
+"Het is aanbevolen om gebruik te maken van een \"caching plugin\" zoals WP-"
+"Super-Cache tot een aanzienlijke verbetering laadtijd."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:384
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:425
+#, fuzzy
 msgid ""
 "This can be activated if you are using more than just one jQuery version."
 msgstr ""
+"U kunt de lokale mediabibliotheek  synchroniseren met Google Drive met "
+"behulp van de \"Sync Mijn media bibliotheek nu\"-knop. Dit zal enige tijd "
+"duren afhankelijk van de grootte van uw mediabibliotheek."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:388
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:429
+#, fuzzy
+msgid "Stop reloading ratings after page load"
+msgstr ""
+"Het is aanbevolen om gebruik te maken van een \"caching plugin\" zoals WP-"
+"Super-Cache tot een aanzienlijke verbetering laadtijd."
+
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:434
+#, fuzzy
+msgid ""
+"Activate this if you don't want to reload the ratings of a page via AJAX "
+"after the page has been loaded."
+msgstr "Lokale cache is gewist."
+
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:438
 msgid "Show \"powered by\"?"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:394
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:448
+#, fuzzy
 msgid ""
 "Whether the \"Rating Plugin by WPBuddy\" link should be shown underneath the "
 "Rating Plugin."
-msgstr ""
+msgstr "Vind je deze plugin leuk?"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:398
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:452
 msgid "Allow tracking?"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:405
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:463
+#, fuzzy
 msgid "This helps us to improve the plugin. Thank you!"
 msgstr ""
+"Het is aanbevolen om gebruik te maken van een \"caching plugin\" zoals WP-"
+"Super-Cache tot een aanzienlijke verbetering laadtijd."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:405
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:463
+#, fuzzy
 msgid "More info about what we track."
+msgstr "Over"
+
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:476
+msgid "Display comment-box after rating?"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:411
-msgid "Other"
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:488
+msgid "Popup headline"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:414
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:493
+msgid "Popup text"
+msgstr ""
+
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:510
+#, fuzzy
 msgid "Purchase Code"
-msgstr ""
+msgstr "Aankoop Code"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:417
-#, php-format
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:513
+#, fuzzy, php-format
 msgid ""
 "In order to get automatic updates you should enter your purchase code. If "
 "you do not know where you can find your purchase code, read this: %s"
 msgstr ""
+"Om automatische updates te ontvangen moet u de aankoop code kopiëren en hier "
+"plakken. Als u niet waar weet u uw aankoop code kunt vinden, klik dan hier: "
+"%s"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:417
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:513
+#, fuzzy
 msgid "How to find your purchase code"
-msgstr ""
+msgstr "Waar vindt u uw aankoop code"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:423
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:519
 msgid "GD Star Rating detected"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:424
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:520
+#, fuzzy
 msgid "Import data from the GD Star Rating Plugin"
 msgstr ""
+"Elk uur leest de plugin deze vermeldingen uit de cache-database om de "
+"bestanden te syncen die nog niet zijn gesynchroniseerd zijn met Google Drive."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:427
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:523
+#, fuzzy
 msgid ""
 "By clicking this button all ratings generated by the GD Star Rating plugin "
 "will be imported to the Purple Heart Rating Plugin. After that the GD Star "
 "Rating Plugin will be deactivated. Important: this will overwrite your "
 "existing Purple Heart Ratings."
 msgstr ""
+"Elk uur leest de plugin deze vermeldingen uit de cache-database om de "
+"bestanden te syncen die nog niet zijn gesynchroniseerd zijn met Google Drive."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:434
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:531
+#, fuzzy
 msgid "Show all Purple Heart comments"
 msgstr ""
+"Elk uur leest de plugin deze vermeldingen uit de cache-database om de "
+"bestanden te syncen die nog niet zijn gesynchroniseerd zijn met Google Drive."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:436
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:533
+#, fuzzy
 msgid "Uninstall the plugin"
-msgstr ""
+msgstr "Vind je deze plugin leuk?"
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:494
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:593
+#, fuzzy
 msgid "Deactivate Rating on this page"
 msgstr ""
+"Geef op hoe lang de URL's moeten worden opgeslagen. Ingesteld op 0 om uit te "
+"schakelen. Laat het leeg voor het opslaan van de bestanden voor een "
+"onbepaalde periode."
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:495
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:594
 msgid "Reset rating after saving"
 msgstr ""
 
-#: ../../classes/wpb_purple_heart_rating_metaboxes.php:496
+#: ../../classes/wpb_purple_heart_rating_metaboxes.php:595
+#, fuzzy
 msgid "Resetting the rating will remove all ratings! Use carefully!"
 msgstr ""
+"Het is aanbevolen om gebruik te maken van een \"caching plugin\" zoals WP-"
+"Super-Cache tot een aanzienlijke verbetering laadtijd."
 
-#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:25
+#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:27
+#, fuzzy
 msgid "WPBuddy: Purple Heart Top Ratings"
-msgstr ""
+msgstr "Meer Plugins door WPBuddy"
 
-#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:26
+#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:28
 msgid "Shows the top 10 posts, pages or custom post types"
 msgstr ""
 
-#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:69
+#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:106
 msgid "No posts with ratings so far"
 msgstr ""
 
-#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:125
+#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:184
 msgid "Top 10 posts"
 msgstr ""
 
-#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:136
+#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:208
 msgid "Title:"
 msgstr ""
 
-#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:141
+#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:213
 msgid "Number of posts"
 msgstr ""
 
-#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:147
+#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:219
+msgid "Sorting"
+msgstr ""
+
+#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:221
+#, fuzzy
+msgid "The posts with the highest rating are listed first"
+msgstr "Uw voornaam"
+
+#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:222
+#, fuzzy
+msgid "The posts with the highest number of votes are listed first"
+msgstr "Uw voornaam"
+
+#: ../../classes/widgets/wpb_purple_heart_rating_widget.php:225
 msgid "Post Types"
 msgstr ""

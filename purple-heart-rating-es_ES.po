@@ -1,10 +1,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Purple Heart Rating\n"
-"POT-Creation-Date: 2013-12-16 12:47+0100\n"
-"PO-Revision-Date: 2013-12-16 12:47+0100\n"
+"POT-Creation-Date: 2013-12-16 12:45+0100\n"
+"PO-Revision-Date: 2013-12-16 12:45+0100\n"
 "Last-Translator: WP-Buddy <info@wp-buddy.com>\n"
-"Language-Team: \n"
+"Language-Team: José Antonio Martín <mailto:jamartin@alguada.com>\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,48 +21,52 @@ msgid ""
 "You should consider entering you purchase code for the %s plugin because you "
 "get every update immediately delivered to your WordPress installation."
 msgstr ""
+"Debes introducir el código de compra para el plugin %s porque así podrás "
+"disfrutar de las nuevas actualizaciones."
 
 #: ../../classes/wpb_purple_heart_rating.php:487
 #: ../../classes/wpb_purple_heart_rating.php:488
 #: ../../classes/wpb_purple_heart_rating.php:1508
 msgid "Purple Heart Rating"
-msgstr ""
+msgstr "Purple Heart Rating"
 
 #: ../../classes/wpb_purple_heart_rating.php:495
 #: ../../classes/wpb_purple_heart_rating.php:2661
 msgid "Logs"
-msgstr ""
+msgstr "Registros"
 
 #: ../../classes/wpb_purple_heart_rating.php:520
 msgid "Rate us with a heart, or not!"
-msgstr ""
+msgstr "¿Te gusta?"
 
 #: ../../classes/wpb_purple_heart_rating.php:521
 msgid "So that we are getting better and you have more benefits of our posts."
-msgstr ""
+msgstr "Califícanos para poder mejorar nuestos posts."
 
 #: ../../classes/wpb_purple_heart_rating.php:522
 #: ../../classes/wpb_purple_heart_rating.php:523
 msgid "What?"
-msgstr ""
+msgstr "¿Qué te parece?"
 
 #: ../../classes/wpb_purple_heart_rating.php:524
 msgid ""
 "We want to know what you think about this site. Share your feedback with the "
 "author - and help us to improve this page."
 msgstr ""
+"Queremos saber lo que piensas acerca de este sitio. Comparte tu opinión con "
+"el autor y ayúdanos a mejorar esta página."
 
 #: ../../classes/wpb_purple_heart_rating.php:554
 msgid "What else would you like to tell the webmaster about this website?"
-msgstr ""
+msgstr "¿Qué más te gustaría decirle al webmaster de este sitio web?"
 
 #: ../../classes/wpb_purple_heart_rating.php:555
 msgid "Thanks for rating"
-msgstr ""
+msgstr "Gracias por la calificación"
 
 #: ../../classes/wpb_purple_heart_rating.php:618
 msgid "Settings updated."
-msgstr ""
+msgstr "Configuración actualizada"
 
 #: ../../classes/wpb_purple_heart_rating.php:628
 msgid "Preview"
@@ -73,33 +78,33 @@ msgstr ""
 
 #: ../../classes/wpb_purple_heart_rating.php:630
 msgid "Comment-box popup window"
-msgstr ""
+msgstr "Ventaja emergente para la caja de comentarios"
 
 #: ../../classes/wpb_purple_heart_rating.php:631
 #: ../../classes/wpb_purple_heart_rating.php:632
 msgid "Options"
-msgstr ""
+msgstr "Opciones"
 
 #: ../../classes/wpb_purple_heart_rating.php:635
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 #: ../../classes/wpb_purple_heart_rating.php:636
 msgid "Like this plugin?"
-msgstr ""
+msgstr "¿Te gusta el plugin?"
 
 #: ../../classes/wpb_purple_heart_rating.php:638
 msgid "Subscribe to our free newsletter"
-msgstr ""
+msgstr "Suscríbete gratis a nuestro boletín"
 
 #: ../../classes/wpb_purple_heart_rating.php:640
 msgid "Helpful links"
-msgstr ""
+msgstr "Enlaces útiles"
 
 #: ../../classes/wpb_purple_heart_rating.php:647
 #: ../../classes/wpb_purple_heart_rating.php:2462
 msgid "Purple Heart Rating Settings"
-msgstr ""
+msgstr "Configuración del Purple Heart Rating"
 
 #: ../../classes/wpb_purple_heart_rating.php:816
 msgid ""
@@ -111,26 +116,26 @@ msgstr ""
 #: ../../classes/wpb_purple_heart_rating.php:908
 #: ../../classes/wpb_purple_heart_rating.php:1784
 msgid "+1"
-msgstr ""
+msgstr "+1"
 
 #: ../../classes/wpb_purple_heart_rating.php:901
 #: ../../classes/wpb_purple_heart_rating.php:912
 #: ../../classes/wpb_purple_heart_rating.php:1785
 msgid "-1"
-msgstr ""
+msgstr "-1"
 
 #: ../../classes/wpb_purple_heart_rating.php:902
-#, php-format
+#, fuzzy, php-format
 msgid "%s Ratings so far"
-msgstr ""
+msgstr "No hay posts con calificaciones hasta el momento"
 
 #: ../../classes/wpb_purple_heart_rating.php:959
 msgid "Switch"
-msgstr ""
+msgstr "Cambio"
 
 #: ../../classes/wpb_purple_heart_rating.php:990
 msgid "WordPress Rating Plugin by WP-Buddy"
-msgstr ""
+msgstr "Plugin WordPress para Calificaciones por WP-Buddy"
 
 #: ../../classes/wpb_purple_heart_rating.php:993
 msgid "(PREVIEW MODE)"
@@ -138,265 +143,270 @@ msgstr ""
 
 #: ../../classes/wpb_purple_heart_rating.php:1023
 msgid "Sorry, we cannot proceed your comment."
-msgstr ""
+msgstr "Lo sentimos, no podemos proceder tu comentario."
 
 #: ../../classes/wpb_purple_heart_rating.php:1039
 msgid "Sorry, the post you are trying to comment on does not exist."
-msgstr ""
+msgstr "Lo sentimos, no existe el post que quieres comentar."
 
 #: ../../classes/wpb_purple_heart_rating.php:1051
 msgid "Anonymous"
-msgstr ""
+msgstr "Anónimo"
 
 #: ../../classes/wpb_purple_heart_rating.php:1069
 msgid "Sorry, your comment could not be saved."
-msgstr ""
+msgstr "Lo sentimos, tu comentario no puede ser guardado."
 
 #: ../../classes/wpb_purple_heart_rating.php:1077
 msgid "Thanks for your comment!"
-msgstr ""
+msgstr "¡Gracias por tu comentario!"
 
 #: ../../classes/wpb_purple_heart_rating.php:1096
 #: ../../classes/wpb_purple_heart_rating.php:1812
 #: ../../classes/wpb_purple_heart_rating.php:1817
 msgid "Sorry, we cannot proceed your rating."
-msgstr ""
+msgstr "Lo sentimos, no podemos proceder tu calificación."
 
 #: ../../classes/wpb_purple_heart_rating.php:1112
 msgid "Sorry, the post you are trying to rate does not exist."
-msgstr ""
+msgstr "Lo sentimos, no existe el post que tratas de calificar."
 
 #: ../../classes/wpb_purple_heart_rating.php:1125
 msgid "You have already rated this post. Thank you!"
-msgstr ""
+msgstr "Ya has calificado este post. ¡Gracias!"
 
 #: ../../classes/wpb_purple_heart_rating.php:1556
 msgid "Start customizing your purple heart rating plugin"
-msgstr ""
+msgstr "Empieza a personalizar tu plugin Purple Heart Rating"
 
 #: ../../classes/wpb_purple_heart_rating.php:1557
 msgid "Please help to improve this plugin and allow tracking."
-msgstr ""
+msgstr "Por favor, ayuda a mejorar este plugin y permite el seguimiento."
 
 #: ../../classes/wpb_purple_heart_rating.php:1569
 msgid "Not now!"
-msgstr ""
+msgstr "¡Ahora no!"
 
 #: ../../classes/wpb_purple_heart_rating.php:1583
 msgid "Okay!"
-msgstr ""
+msgstr "¡Vale!"
 
 #: ../../classes/wpb_purple_heart_rating.php:1624
 msgid "Sorry, we cannot proceed this action."
-msgstr ""
+msgstr "Lo sentimos, no podemos continuar esta acción."
 
 #: ../../classes/wpb_purple_heart_rating.php:1643
 msgid "Options updated!"
-msgstr ""
+msgstr "¡Opciones actualizadas1"
 
 #: ../../classes/wpb_purple_heart_rating.php:1657
 msgid "Settings"
-msgstr ""
+msgstr "Configuraciones"
 
 #: ../../classes/wpb_purple_heart_rating.php:1658
 msgid "More Plugins by WPBuddy"
-msgstr ""
+msgstr "Más Plugins por WPBuddy"
 
 #: ../../classes/wpb_purple_heart_rating.php:1833
 msgid "Sorry, the comment you are trying to rate on does not exist."
-msgstr ""
+msgstr "Lo sentimos, no existe el comentario que quiere calificar."
 
 #: ../../classes/wpb_purple_heart_rating.php:1846
 msgid "You have already rated this comment. Thank you!"
-msgstr ""
+msgstr "Ya se ha clasificado este comentario. ¡Gracias!"
 
 #: ../../classes/wpb_purple_heart_rating.php:1888
 msgid "Sorry, your rating could not be saved."
-msgstr ""
+msgstr "Lo sentimos, tu calificación no puede ser guardada."
 
 #: ../../classes/wpb_purple_heart_rating.php:1896
 msgid "Thanks for your rating!"
-msgstr ""
+msgstr "¡Gracias por tu calificación!"
 
 #: ../../classes/wpb_purple_heart_rating.php:2217
 msgid "Could not find GD Star Rating table!"
-msgstr ""
+msgstr "¡No se puede encontrar la tabla GD Star Rating!"
 
 #: ../../classes/wpb_purple_heart_rating.php:2230
 msgid ""
 "Successfully imported from GD Star rating! GD Star Rating has been "
 "deactivated."
 msgstr ""
+"¡Importación exitosa desde el GD Star rating! GD Star Rating está siendo "
+"desactivado."
 
 #: ../../classes/wpb_purple_heart_rating.php:2233
 msgid "Could not import your data from the GD Star Rating plugin."
-msgstr ""
+msgstr "No se pueden importar datos desde el plugin GD Star Rating."
 
 #: ../../classes/wpb_purple_heart_rating.php:2303
 msgid "Error while refreshing the current ratings."
-msgstr ""
+msgstr "Error al actualizar las calificaciones actuales."
 
 #: ../../classes/wpb_purple_heart_rating.php:2416
 msgid "Your name (optional)"
-msgstr ""
+msgstr "Tu nombre (opcional)"
 
 #: ../../classes/wpb_purple_heart_rating.php:2422
 msgid "Your E-Mail (optional)"
-msgstr ""
+msgstr "Tu eMail (opcional)"
 
 #: ../../classes/wpb_purple_heart_rating.php:2429
 msgid "Your comment"
-msgstr ""
+msgstr "Tu comentario"
 
 #: ../../classes/wpb_purple_heart_rating.php:2434
 msgid "Close"
-msgstr ""
+msgstr "Cerrar"
 
 #: ../../classes/wpb_purple_heart_rating.php:2437
 msgid "Send"
-msgstr ""
+msgstr "Enviar"
 
 #: ../../classes/wpb_purple_heart_rating.php:2690
 msgid "Items per page"
-msgstr ""
+msgstr "Elementos por página"
 
 #: ../../classes/wpb_purple_heart_rating.php:2707
 msgid ""
 "Are you sure you want to do this? This will remove all database tables as "
 "well as your ratings. The plugin will then de-activate itself."
 msgstr ""
+"¿Seguro que quieres hacer esto? Esto eliminará todas las tablas de la base "
+"de datos, así como tus calificaciones. El plugin entonces se desactivará "
+"automáticamente."
 
 #: ../../classes/wpb_purple_heart_rating.php:2708
 msgid "Yes, uninstall and deactivate this plugin!"
-msgstr ""
+msgstr "Sí, desinstalar y desactivar este plugin"
 
 #: ../../classes/wpb_purple_heart_rating.php:2709
 msgid "No, do not uninstall!"
-msgstr ""
+msgstr "No desinstalar"
 
 #: ../../classes/wpb_purple_heart_rating.php:2760
 #: ../../classes/wpb_purple_heart_rating_db_view.php:45
 msgid "Rating"
-msgstr ""
+msgstr "Calificaciones"
 
 #: ../../classes/wpb_purple_heart_rating.php:2761
 msgid "Votes"
-msgstr ""
+msgstr "Votos"
 
 #: ../../classes/wpb_purple_heart_rating_db_view.php:44
 msgid "Rated on"
-msgstr ""
+msgstr "Calificado en"
 
 #: ../../classes/wpb_purple_heart_rating_db_view.php:46
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: ../../classes/wpb_purple_heart_rating_db_view.php:47
 msgid "Time"
-msgstr ""
+msgstr "Tiempo"
 
 #: ../../classes/wpb_purple_heart_rating_db_view.php:48
 msgid "IP Address (anonymized)"
-msgstr ""
+msgstr "Dirección IP (anónima)"
 
 #: ../../classes/wpb_purple_heart_rating_db_view.php:49
 msgid "Post ID"
-msgstr ""
+msgstr "ID Post"
 
 #: ../../classes/wpb_purple_heart_rating_db_view.php:50
 msgid "Comment ID"
-msgstr ""
+msgstr "ID Comentario"
 
 #: ../../classes/wpb_purple_heart_rating_db_view.php:274
 #: ../../classes/wpb_purple_heart_rating_db_view.php:303
 msgid "Delete"
-msgstr ""
+msgstr "Eliminar"
 
 #: ../../classes/wpb_purple_heart_rating_db_view.php:309
 msgid "Post is no longer available"
-msgstr ""
+msgstr "El post ya no está disponible"
 
 #: ../../classes/wpb_purple_heart_rating_db_view.php:311
 msgid "Post:"
-msgstr ""
+msgstr "Post:"
 
 #: ../../classes/wpb_purple_heart_rating_db_view.php:316
 msgid "Comment is no longer available "
-msgstr ""
+msgstr "El comentario ya no está disponible"
 
 #: ../../classes/wpb_purple_heart_rating_db_view.php:318
 msgid "Comment:"
-msgstr ""
+msgstr "Comentario:"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:46
 msgid "Installation manual"
-msgstr ""
+msgstr "Manual de instalación"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:49
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Preguntas Frecuentes"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:52
 msgid "Report a bug"
-msgstr ""
+msgstr "Notificar un error"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:55
 msgid "Request a function"
-msgstr ""
+msgstr "Solicitar una función"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:58
 msgid "Submit a translation"
-msgstr ""
+msgstr "Enviar una traducción"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:61
 msgid "More cool stuff by WPBuddy"
-msgstr ""
+msgstr "Más cosas interesantes por WPBuddy"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:124
 msgid "Your first name"
-msgstr ""
+msgstr "Tu nombre"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:126
 msgid "Your E-Mail address"
-msgstr ""
+msgstr "Tu eMail"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:128
 msgid "Subscribe for free"
-msgstr ""
+msgstr "Suscríbete gratis"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:167
 msgid "Icon"
-msgstr ""
+msgstr "Icono"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:180
 msgid "Color"
-msgstr ""
+msgstr "Color"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:186
 msgid "Headline"
-msgstr ""
+msgstr "Título"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:193
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:205
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:217
 msgid "activate / deactivate"
-msgstr ""
+msgstr "activar / desactivar"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:198
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:210
 msgid "\"More Button\" label"
-msgstr ""
+msgstr "\"Más botones\" etiqueta"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:222
 msgid "Popover headline"
-msgstr ""
+msgstr "Título Popover"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:227
 msgid "Popover description"
-msgstr ""
+msgstr "Dscripción Popover"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:232
 msgid "Show total number of ratings"
@@ -404,7 +414,7 @@ msgstr ""
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:237
 msgid "Width of the info area"
-msgstr ""
+msgstr "Ancho del área de información"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:239
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:245
@@ -418,51 +428,51 @@ msgstr ""
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:293
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:299
 msgid "px, em or %"
-msgstr ""
+msgstr "px, em o %"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:243
 msgid "Width of the rating area"
-msgstr ""
+msgstr "Ancho del área de calificación"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:249
 msgid "Rating buttons width"
-msgstr ""
+msgstr "Ancho de los botones de calificaciones"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:255
 msgid "Headline font size"
-msgstr ""
+msgstr "Tamaño de la fuente del título"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:261
 msgid "Description font size"
-msgstr ""
+msgstr "Tamaño de la fuente de la descripción"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:267
 msgid "\"More button\" label font size"
-msgstr ""
+msgstr "\"Más botones\" tamaño de la fuente de la etiqueta"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:273
 msgid "Popover headline font size"
-msgstr ""
+msgstr "Tamaño de la fuente del título Popover"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:279
 msgid "Popover description font size"
-msgstr ""
+msgstr "Tamaño de la fuente de la descripción Popover"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:285
 msgid "Positive percentage font size"
-msgstr ""
+msgstr "Tamaño de la fuente del porcentaje positivo"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:291
 msgid "Negative percentage font size"
-msgstr ""
+msgstr "Tamaño de la fuente del porcentaje negativo"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:297
 msgid "Icon size"
-msgstr ""
+msgstr "Tamaño de los iconos"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:303
 msgid "Custom CSS"
-msgstr ""
+msgstr "Personalizar CSS"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:306
 #, php-format
@@ -471,46 +481,49 @@ msgid ""
 "might not appear on this page because WordPress sometimes overwrites it. "
 "Read more on this here: %s."
 msgstr ""
+"Aquí puedes añadir tu css personalizado. Por favor, ten en cuenta que "
+"algunos de los cambios no pueden aparecer en esta página porque WordPress a "
+"veces lo sobrescribe. Leer más sobre esto aquí: %s."
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:306
 msgid "How to style the rating plugin"
-msgstr ""
+msgstr "Elegir el estilo del plugin de calificación"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:310
 msgid "Switch rating positions"
-msgstr ""
+msgstr "Cambiar las opciones de calificación"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:315
 msgid "Reset to defaults"
-msgstr ""
+msgstr "Restablecer los valores predeterminados"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:334
 msgid "Where to display the rating?"
-msgstr ""
+msgstr "¿Dónde mostrar las calificaciones?"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:338
 msgid "Before the content"
-msgstr ""
+msgstr "Antes del contenido"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:341
 msgid "After the content"
-msgstr ""
+msgstr "Después del contenido"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:343
 msgid "Within the comment fields"
-msgstr ""
+msgstr "Dentro de los campos de comentario"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:355
 msgid "On which post types?"
-msgstr ""
+msgstr "¿En qué tipo de posts?"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:357
 msgid "Nothing"
-msgstr ""
+msgstr "Ninguno"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:368
 msgid "Allow comment rating"
-msgstr ""
+msgstr "Permitir calificaciones en los comentarios"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:372
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:386
@@ -518,7 +531,7 @@ msgstr ""
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:456
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:480
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:375
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:389
@@ -526,43 +539,48 @@ msgstr ""
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:459
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:483
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:378
 msgid "Choose \"Yes\" if you want to allow rating the comments."
 msgstr ""
+"Elegir \"Sí\" si tu quieres permitir calificaciones en los comentarios."
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:382
 msgid "Sort the comments"
-msgstr ""
+msgstr "Ordenar los comentarios"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:392
 msgid ""
 "Choose \"Yes\" if you want the plugin to sort the comments depending on the "
 "ratings."
 msgstr ""
+"Elegir \"Sí\" si tu quieres que el plugin ordene los comentarios dependiendo "
+"de las calificaciones"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:396
 msgid "Log Save Time"
-msgstr ""
+msgstr "Registro para ahorrar tiempo"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:398
 msgid "hours (Keep empty to save for the maximum duration = 365 days)"
-msgstr ""
+msgstr "horas (mantener vacío para ahorrar para la duración máxima = 365 días)"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:402
 msgid "Add Javascript to Footer"
-msgstr ""
+msgstr "Añadir Javascript al pie de la página"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:407
 msgid ""
 "Adding the Javascripts to the footer will sometimes help to get the plugin "
 "to work."
 msgstr ""
+"Añadir los Javascripts al pie del sitio web a veces puede ayudar al trabajo "
+"del plugin."
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:411
 msgid "Add jQuery"
-msgstr ""
+msgstr "Añadir jQuery"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:416
 msgid ""
@@ -571,15 +589,19 @@ msgid ""
 "properly. You should consider updating your theme to the latest version "
 "instead."
 msgstr ""
+"Esto sólo se debe activar si tu tema está utilizando una versión anterior de "
+"jQuery. Por favor ten en cuenta que esto puede detener algunos de tu "
+"archivos JavaScript para funcionar correctamente. Considera actualizar tu "
+"tema a la última versión en su lugar."
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:420
 msgid "Use jQuery in noConflict-mode"
-msgstr ""
+msgstr "Utilizar jQuery en modo noConflict"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:425
 msgid ""
 "This can be activated if you are using more than just one jQuery version."
-msgstr ""
+msgstr "Esto puede activarse si utilizas más de una versión de jQuery."
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:429
 msgid "Stop reloading ratings after page load"
@@ -593,41 +615,43 @@ msgstr ""
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:438
 msgid "Show \"powered by\"?"
-msgstr ""
+msgstr "Ver \"desarrollado por\"?"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:448
 msgid ""
 "Whether the \"Rating Plugin by WPBuddy\" link should be shown underneath the "
 "Rating Plugin."
 msgstr ""
+"Si el \"Plugin de Calificaciones por WPBuddy\" el enlace debería ser "
+"mostrado debajo de la calificación."
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:452
 msgid "Allow tracking?"
-msgstr ""
+msgstr "¿Permites el seguimiento?"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:463
 msgid "This helps us to improve the plugin. Thank you!"
-msgstr ""
+msgstr "Esto nos ayuda a mejorar el plugin. ¡Gracias!"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:463
 msgid "More info about what we track."
-msgstr ""
+msgstr "Más información sobre lo que hacemos en el seguimiento."
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:476
 msgid "Display comment-box after rating?"
-msgstr ""
+msgstr "¿Mostrar la caja de comentarios después de las calificaciones?"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:488
 msgid "Popup headline"
-msgstr ""
+msgstr "Título emergente"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:493
 msgid "Popup text"
-msgstr ""
+msgstr "Texto emergente"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:510
 msgid "Purchase Code"
-msgstr ""
+msgstr "Código de Compra"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:513
 #, php-format
@@ -635,18 +659,21 @@ msgid ""
 "In order to get automatic updates you should enter your purchase code. If "
 "you do not know where you can find your purchase code, read this: %s"
 msgstr ""
+"Para obtener actualizaciones automáticas es necesario introducir el código "
+"de compra. Si no sabes donde se puede encontrar el código de compra, Lee "
+"esto: %s"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:513
 msgid "How to find your purchase code"
-msgstr ""
+msgstr "Cómo encontrar el código de compra"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:519
 msgid "GD Star Rating detected"
-msgstr ""
+msgstr "GD Star Rating detectado"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:520
 msgid "Import data from the GD Star Rating Plugin"
-msgstr ""
+msgstr "Importar datos desde el GD Star Rating Plugin"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:523
 msgid ""
@@ -655,50 +682,58 @@ msgid ""
 "Rating Plugin will be deactivated. Important: this will overwrite your "
 "existing Purple Heart Ratings."
 msgstr ""
+"Haciendo clic en este botón se importarán todas las clasificaciones "
+"generadas por el plugin GD Star Rating en el plugin Purple Heart Rating. "
+"Después de eso se desactivará el plugin GD Star Rating. Importante: las "
+"calificaciones importadas se sobreescribirán a las existentes del Purple "
+"Heart Rating."
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:531
 msgid "Show all Purple Heart comments"
-msgstr ""
+msgstr "Ver todos los comentarios de Purple Heart"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:533
 msgid "Uninstall the plugin"
-msgstr ""
+msgstr "Desinstalar el plugin"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:593
 msgid "Deactivate Rating on this page"
-msgstr ""
+msgstr "Desactivar las calificaciones en esta página"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:594
 msgid "Reset rating after saving"
-msgstr ""
+msgstr "Reiniciar las calificaciones después de guardar"
 
 #: ../../classes/wpb_purple_heart_rating_metaboxes.php:595
 msgid "Resetting the rating will remove all ratings! Use carefully!"
 msgstr ""
+"Reiniciando las calificaciones se eliminarán todas las calificaciones. ¡Ten "
+"cuidado!"
 
 #: ../../classes/widgets/wpb_purple_heart_rating_widget.php:27
 msgid "WPBuddy: Purple Heart Top Ratings"
-msgstr ""
+msgstr "WPBuddy: Calificaciones más populares de Purple Heart"
 
 #: ../../classes/widgets/wpb_purple_heart_rating_widget.php:28
 msgid "Shows the top 10 posts, pages or custom post types"
 msgstr ""
+"Muestra los 10 posts, páginas o tipos de posts personalizados más populares"
 
 #: ../../classes/widgets/wpb_purple_heart_rating_widget.php:106
 msgid "No posts with ratings so far"
-msgstr ""
+msgstr "No hay posts con calificaciones hasta el momento"
 
 #: ../../classes/widgets/wpb_purple_heart_rating_widget.php:184
 msgid "Top 10 posts"
-msgstr ""
+msgstr "10 Posts más populares"
 
 #: ../../classes/widgets/wpb_purple_heart_rating_widget.php:208
 msgid "Title:"
-msgstr ""
+msgstr "Título:"
 
 #: ../../classes/widgets/wpb_purple_heart_rating_widget.php:213
 msgid "Number of posts"
-msgstr ""
+msgstr "Número de posts"
 
 #: ../../classes/widgets/wpb_purple_heart_rating_widget.php:219
 msgid "Sorting"
@@ -714,4 +749,13 @@ msgstr ""
 
 #: ../../classes/widgets/wpb_purple_heart_rating_widget.php:225
 msgid "Post Types"
-msgstr ""
+msgstr "Tipos de Posts"
+
+#~ msgid "General"
+#~ msgstr "General"
+
+#~ msgid "Customize"
+#~ msgstr "Personalizar"
+
+#~ msgid "Other"
+#~ msgstr "Otros"
