@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Purple Heart Rating (Free)\n"
+"POT-Creation-Date: 2014-08-24 17:15+0330\n"
+"PO-Revision-Date: 2014-08-24 17:15+0330\n"
+"Last-Translator: Mahdi Kashani <mh.kashani1994@live.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../classes/wpb_plugin.php:651
+#, php-format
+msgid ""
+"You should consider entering you purchase code for the %s plugin because you "
+"get every update immediately delivered to your WordPress installation."
+msgstr ""
+"بهتر است در نظر داشته باشید که کد خرید خود را برای افزونه %s در نظر داشته "
+"باشید، چرا که به محض انتشار هر به روز رسانی آن را در وردپرس خود دریافت "
+"خواهید کرد."
+
+#: ../../classes/wpb_purple_heart_rating_free.php:134
+msgid ""
+"The Purple Heart Plugin (Free Version) has been deactivated because the PRO-"
+"Version is installed."
+msgstr ""
+"افزونه قلب بنفش (نسخه رایگان) به دلیل نصب نسخه پیشرفته غیر فعال شده است."
+
+#: ../../classes/wpb_purple_heart_rating_free.php:136
+#: ../../classes/wpb_purple_heart_rating_free.php:142
+msgid "Go back to the plugins section"
+msgstr "به قسمت افزونه ها بازگردید."
+
+#: ../../classes/wpb_purple_heart_rating_free.php:140
+msgid ""
+"The Purple Heart Plugin (Free Version) cannot be activated because the PRO-"
+"Version is installed already."
+msgstr ""
+"افزونه قلب بنفش (نسخه رایگان) نمیتواند فعال شود چرا که هم اکنون نسخه پیشرفته "
+"نصب شده است."
+
+#: ../../classes/wpb_purple_heart_rating_free.php:219
+#: ../../classes/wpb_purple_heart_rating_free.php:220
+msgid "Purple Heart Rating"
+msgstr "رتبه دهی قلب بنفش"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:248
+msgid "Rate us with a heart, or not!"
+msgstr "به ما با یک قلب امتیاز دهید."
+
+#: ../../classes/wpb_purple_heart_rating_free.php:249
+msgid "So that we are getting better and you have more benefits of our posts."
+msgstr ""
+"به طوری که ما در حال بهتر شدن هستیم و شما از مطالب ما بهره بیشتری میبرید."
+
+#: ../../classes/wpb_purple_heart_rating_free.php:250
+#: ../../classes/wpb_purple_heart_rating_free.php:251
+msgid "What?"
+msgstr "بیشتر..."
+
+#: ../../classes/wpb_purple_heart_rating_free.php:252
+msgid ""
+"We want to know what you think about this site. Share your feedback with the "
+"author - and help us to improve this page."
+msgstr ""
+"ما میخواهیم بدانیم که در مورد این سایت چه فکری میکنید. بازخورد خود را با "
+"نویسنده در میان بگذارید و به ما در بهبود این صفحه یاری نمایید. "
+
+#: ../../classes/wpb_purple_heart_rating_free.php:317
+msgid "Settings updated."
+msgstr "تنظیمات به روز رسانی شد."
+
+#: ../../classes/wpb_purple_heart_rating_free.php:327
+msgid "General"
+msgstr "عمومی"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:330
+msgid "About"
+msgstr "درباره"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:332
+msgid "Like this plugin?"
+msgstr "این افزونه را دوست دارید؟"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:334
+msgid "Discover"
+msgstr "کشف کنید"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:336
+msgid "Helpful links"
+msgstr "پیوند های مفید"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:338
+msgid "Grab our free newsletter!"
+msgstr "خبرنامه رایگان ما را دریافت کنید!"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:344
+msgid "Purple Heart Rating Settings"
+msgstr "تنظیمات رتبه دهی بنفش"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:553
+#: ../../classes/wpb_purple_heart_rating_free.php:563
+msgid "+1"
+msgstr "+1"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:557
+#: ../../classes/wpb_purple_heart_rating_free.php:567
+msgid "-1"
+msgstr "-1"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:578
+msgid "WordPress Rating Plugin by WPBuddy"
+msgstr "ترجمه افزونه رتبه دهی وردپرس توسط مهدی کاشانی"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:609
+msgid "Sorry, we cannot proceed your rating."
+msgstr "متأسفیم، نمیتوانیم رتبه دهی شما را پرداخت کنیم."
+
+#: ../../classes/wpb_purple_heart_rating_free.php:625
+msgid "Sorry, the post you are trying to rate does not exist."
+msgstr "متأسفیم، مطلبی که سعی در رتبه دهی دارید وجود ندارد."
+
+#: ../../classes/wpb_purple_heart_rating_free.php:638
+msgid "You have already rated this post. Thank you!"
+msgstr "شما به این پست امتیاز داده اید. متشکریم!"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:959
+msgid "Start customizing your purple heart rating plugin"
+msgstr "افزونه قلب بنفش خود را سفارشی کنید"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:960
+msgid "Please help to improve this plugin and allow tracking."
+msgstr "لطفا جهت بهبود این افزونه کمک کنید و اجازه ردیابی بدهید"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:972
+msgid "Not now!"
+msgstr "الآن نه!"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:986
+msgid "Okay!"
+msgstr "باشه!"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1026
+msgid "Sorry, we cannot proceed this action."
+msgstr "متأسفیم، نمیتوانیم این عمل را پرداخت کنیم."
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1045
+msgid "Options updated!"
+msgstr "تنظیمات به روز رسانی شد!"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1059
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1060
+msgid "More Plugins by WPBuddy"
+msgstr "افزونه های بیشتر توسط WPBuddy"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1116
+msgid "Could not find GD Star Rating table!"
+msgstr "جدول رتبه دهی ستاره یافت نشد!"
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1129
+msgid ""
+"Successfully imported from GD Star rating! GD Star Rating has been "
+"deactivated."
+msgstr "با موفقیت از GD Star Rating وارد شد!GD Star Rating غیرفعال شد."
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1132
+msgid "Could not import your data from the GD Star Rating plugin."
+msgstr "داده های شما نمیتواند از افزونه GD Star Rating وارد شود."
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1155
+msgid "Error while refreshing the current ratings."
+msgstr "خطا در هنگام تازه کردن رتبه بندی های جاری."
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1372
+#, php-format
+msgid ""
+"&ldquo;Servus %s! You have been using the free version of the Purple Heart "
+"Rating Plugin.&rdquo;"
+msgstr ""
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1373
+msgid "&ldquo;Maybe it's a good time to upgrade now to the pro-version?&rdquo;"
+msgstr ""
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1374
+msgid ""
+"&ldquo;Join many others who are benefitting from the full list of features "
+"for their online success!&rdquo;"
+msgstr ""
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1378
+msgid "Dave - Marketing-Buddy"
+msgstr ""
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1379
+msgid "Flow - Code-Buddy"
+msgstr ""
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1380
+msgid "Duke - Design-Buddy"
+msgstr ""
+
+#: ../../classes/wpb_purple_heart_rating_free.php:1383
+msgid "COMPARE free & pro"
+msgstr "رایگان و پیشرفته را مقایسه کنید"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:44
+msgid "Installation manual"
+msgstr "راهنمای نصب"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:45
+msgid "Frequently Asked Questions"
+msgstr "سؤالات متداول"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:47
+msgid "Report a bug"
+msgstr "گزارش باگ"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:49
+msgid "Request a function"
+msgstr "درخواست یک عملکرد"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:52
+msgid "Submit a translation"
+msgstr "ارسال یک ترجمه"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:54
+msgid "More cool stuff by WPBuddy"
+msgstr "چیز های باحال بیشتر توسط WPBuddy"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:113
+msgid "Your first name"
+msgstr "نام شما"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:114
+msgid "Your E-Mail address"
+msgstr "آدرس پست اکترونیکی شما"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:116
+msgid "Subscribe for free"
+msgstr "به رایگان به اشتراک بگذارید"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:145
+msgid "Customize"
+msgstr "سفارشی سازی"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:148
+msgid "Headline"
+msgstr "عنوان"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:153
+msgid "Description"
+msgstr "توضیحات"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:158
+msgid "\"More Button\" label"
+msgstr "برچسب \"دکمه بیشتر\""
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:163
+msgid "\"More Button\" headline"
+msgstr "عنوان \"دکمه بیشتر\""
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:168
+msgid "\"More Button\" description"
+msgstr "توضیحات \"دکمه بیشتر\""
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:172
+msgid "Reset to defaults"
+msgstr "تنظیم مجدد به پیشفرض"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:174
+msgid "Options"
+msgstr "تنظیمات"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:187
+msgid "On which post types?"
+msgstr "در کدام نوع مطلب؟"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:200
+msgid "IP Save Time"
+msgstr "زمان ذخیره سازی IP"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:202
+msgid "hours (Keep empty to save for the maxium duration = 365 days)"
+msgstr "ساعت (برای ذخیره سازی به مدت ماکزیمم خالی رها کنید = 365 روز)"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:206
+msgid "Allow tracking?"
+msgstr "اجازه ردیابی میدهید؟"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:208
+msgid "Yes"
+msgstr "بله"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:209
+msgid "No"
+msgstr "خیر"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:213
+msgid "This helps us to improve the plugin. Thank you!"
+msgstr "این به ما در بهبودی افزونه کمک میکند. متشکریم!"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:213
+msgid "More info about what we track."
+msgstr "اطلاعات بیشتر درباره چیزهایی که ردیابی میکنیم."
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:218
+msgid "Other"
+msgstr "سایر"
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:221
+msgid "GD Star Rating detected"
+msgstr "افزونه GD Star Rating شناسایی شد."
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:222
+msgid "Import data from the GD Star Rating Plugin"
+msgstr "داده ها را از افزونه GD Star Rating وارد کن."
+
+#: ../../classes/wpb_purple_heart_rating_free_metaboxes.php:225
+msgid ""
+"By clicking this button all ratings generated by the GD Star Rating plugin "
+"will be imported to the Purple Heart Rating Plugin. After that the GD Star "
+"Rating Plugin will be deactivated. Important: this will overwrite your "
+"existing Purple Heart Ratings."
+msgstr ""
+"با کلیک بر روی این دکمه تمامی رتبه دهی های تولید شده توسط افزونه GD Star "
+"Rating به افزونه رتبه دهی قلب بنفش وارد خواهد شد. سپس افزونه GD Star Rating "
+"غیرفعال خواهد شد. مهم: این کار رتبه دهی های موجود قلب بنفش را بازنویسی خواهد "
+"کرد."
